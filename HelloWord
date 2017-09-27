@@ -1,0 +1,8 @@
+package testtt;
+public class test {
+	public static void main(String []args) {
+        
+		 String jsonString ="{\"name\":\"zhangsan\",\"password\":\"zhangsan123\",\"email\":\"10371443@qq.com\"}"; 
+		 System.out.println(jsonString);
+		}
+}
